@@ -358,7 +358,7 @@ var baseLayers = {
 
 var groupedOverlays = {
   "  Points d’intérêt ": {
-    "<img src='assets/img/csc.png' width='24' height='28'>&nbsp;polyclinique": poteauLayer
+    "<img src='assets/img/csc.png' width='24' height='28'>&nbsp;ONU": poteauLayer
   },
   "Reference": {
     "Commune": boroughs,
